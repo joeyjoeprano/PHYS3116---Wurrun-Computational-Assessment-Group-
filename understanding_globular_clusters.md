@@ -15,5 +15,19 @@
 - graphing retrograde motion of clusters or just irregular motion within said galaxy
 
 ## Faiz
+- globular cluster is a gravitational bound group of stars concentrated into roughly spherical system
+- red globular cluster indicates metal-rich and suggest that the formation is in a relatively chemical enriched environtment
+- blue globular cluster indicates metal-poor and suggest that the formation is in a less chemically enriched environtment
+- Accreted globular cluster is a smaller external galaxy that was later gravitationally merged into the milky way
+- Investigating Accreted globular cluster:
+    - Age
+    - Metalicity
+    - Dynamic
+
+
+#### graphing
+- age vs metalicity
+- orbital energy (calculate or obtain) vs angular momentum
+- chemical abundances (use [a/Fe] vs [Fe/H]) comparison
 
 ## Russell
